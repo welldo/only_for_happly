@@ -40,6 +40,11 @@ ql repo https://ghproxy.com/https://github.com/wd210010/only_for_happly.git "" "
 
 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8  需要梯子（魔法上网）
 
+### KIMI 自动写脚本 
+
+注册链接 http://s.b6v.cn/iUIez
+
+
 
 ### 一元机场推荐
 

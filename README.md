@@ -44,7 +44,9 @@ ql repo https://ghproxy.com/https://github.com/wd210010/only_for_happly.git "" "
 
 注册链接 http://s.b6v.cn/iUIez
 
-
+### QCLAW 自动电脑端处理事务
+注册链接 
+https://qclaw.qq.com?channel=6070&share_type=invite-share&invite_code=QvyorBb5TIXm9JkN
 
 ### 一元机场推荐
 
